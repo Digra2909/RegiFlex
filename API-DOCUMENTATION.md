@@ -1,4 +1,4 @@
-#— API Doc
+#— API Docs
 
 > **Stack**: Laravel 13.x + Sanctum (token auth) + Spatie Permissions  
 > **Base URL**: `https://votre-domaine.com/api`  
